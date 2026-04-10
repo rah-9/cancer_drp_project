@@ -166,7 +166,7 @@ cancer_drp_project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/cancer_drp_project.git
+git clone https://github.com/rah-9/cancer_drp_project.git
 cd cancer_drp_project
 
 # Create virtual environment

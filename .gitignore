@@ -1,0 +1,25 @@
+# Pycache
+__pycache__/
+*.pyc
+
+# Data and Models
+data/raw/
+data/processed/
+checkpoints/
+
+# Results and Logs
+results/
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Virtual Env
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
